@@ -30,7 +30,6 @@ This project is a web application that classifies SMS messages as "spam" or "ham
 ## Prerequisites
 - `Python 3.8` or higher
 - `pip` (Python package manager)
-- `virtualenv` (optional but recommended for creating a virtual environment)
 - `Jupyter Notebook` (for training the model and viewing the evaluation results)
 
 ## Installation
