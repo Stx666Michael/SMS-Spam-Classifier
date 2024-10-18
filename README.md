@@ -36,7 +36,7 @@ This project is a web application that classifies SMS messages as "spam" or "ham
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sms-spam-classifier.git
+   git clone https://github.com/Stx666Michael/SMS-Spam-Classifier.git
    cd sms-spam-classifier
    ```
 
